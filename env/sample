@@ -1,5 +1,0 @@
-DB_NAME=dbname
-DB_USER=rootuser
-DB_PASS=changeme
-SECRET_KEY='django-insecure-i*pk(k$k@327g%5%n9si*87nu+7&j#^@3j%5@y&)cg6wmjh7s_'
-ALLOWED_HOSTS=127.0.0.1
